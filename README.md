@@ -48,9 +48,9 @@ Ideja je definisati skup ograničenja koja kad se ispune, obučavanje modela će
 
 <br>
 Treba pomenuti da je gotovo sigurno mali skup podataka, i to što su tekstovi pisani na srpskom jeziku dosta uticalo na sam rezultat.
-Naš model od 199 pasusa, dobro klasifikuje 153 pasusa.
-Rezultati su sledeći:
-Preciznost: 0.853
-Recall skor: 0.646
-F1: 0.736
+Naš model od 199 pasusa, dobro klasifikuje 153 pasusa.<br>
+Rezultati su sledeći:<br>
+Preciznost: 0.853<br>
+Recall skor: 0.646<br>
+F1: 0.736<br>
 
