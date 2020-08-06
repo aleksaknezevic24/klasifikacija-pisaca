@@ -33,10 +33,7 @@ Binarizaciju sam uradio pomoću funkcije get_dummies. Nad prvom kolonom
 nažalost nisam mogao da radim nikakav Stemming (lematizacije) jer nisam pronašao
 ni jedan stemmer prilagođen srpskom jeziku. Takođe nisam imao ni popularnu stop
 listu reči, jer nigde nisam uspeo da pronađem stop listu za naš jezik. Jedina obrada
-prve kolone bila je pomoću tokenizera, pretvorio sam reči u sekvence. Gde sam
-uzimao samo 10 hiljada najfrekventnijih reči u obzir, a ostale se nisu razmatrale. Na
-kraju, podatke smo podelili na trening i testne funkcijom train_test_split, gde je 25%
-ukupnog skupa pripalo testnim podacima.</p>
+prve kolone bila je pomoću tokenizera, pretvorio sam reči u sekvence.</p>
 
 <br> <br>
 <h3>Obučavanje i evaluacija modela</h3>
